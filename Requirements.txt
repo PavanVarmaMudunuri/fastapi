@@ -1,0 +1,5 @@
+Python
+FastAPI and Uvicorn
+Vs Code/Pycharm
+optional-- pydantic, httpx, Sql Alchemy.
+Virtual Environment
